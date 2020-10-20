@@ -4,7 +4,7 @@
 <p align="center">
 &nbsp; <a href="https://sabrina.marlbrough.us" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/resume-website.png" width="50" /></a>
 &nbsp; <a href="https://www.facebook.com/Sabrina.Marlbrough/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a> 
-&nbsp; <a href="https://www.instagram.com/smarlbrough/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/s_marlbrough/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/smarlbrough" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://twitter.com/s_marlbrough" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="mailto:sabrina@marlbrough.us" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
