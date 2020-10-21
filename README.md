@@ -12,7 +12,19 @@
 </p>
 
 <!--
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<img src="https://img.icons8.com/plasticine/100/000000/html.png" width="20"/> &nbsp; frontend: HTML | CSS | JavaScript | Bootstrap | Node.js | VB.NET
+backend: Ruby on Rails | ASP.Net
+styling: CSS | CSS | SASS | SCSS | Markdown 
+editors: Sublime 3 | Atom | Azure DevOps |  
+tools: GIT | GitHub | Visual Studio | Tortois SVN 
+-->
+
+<!--
+
 **smrlbrgh/smrlbrgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 - 🔭 I’m currently working on ...
@@ -23,4 +35,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
