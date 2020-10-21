@@ -1,4 +1,12 @@
 ### Welcome!  👋
+<!--
+Bio extends SoftwareDeveloper {
+  name     = 'Emerson Thompson';
+  title    = 'Software Engineer';
+  company  = 'Pipoca Digital | Remote';
+  location = 'Fortaleza, CE';
+-->
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
