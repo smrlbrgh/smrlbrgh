@@ -13,4 +13,6 @@
 &nbsp; <a href="mailto:sabrina@marlbrough.us" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
 
+![github stats](https://github-readme-stats.vercel.app/api?username=smrlbrgh&show_icons=true)
+
 ⭐️ From [smrlbrgh](https://github.com/smrlbrgh)
