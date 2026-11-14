@@ -1,4 +1,3 @@
-```html
 <h2 align="center">Hi, I'm Sabrina! 👋</h2>
 
 <p align="center">
